@@ -535,7 +535,7 @@ mark{
 .timeline-wrapper{
     position: relative;
     max-width: 100vw;
-    height: 60vh;
+    height: 55vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -547,7 +547,7 @@ mark{
 .timeline{
     position: absolute;
     height: .12rem;
-    padding: 0 4rem;
+    padding: 0 2rem;
     background-color: #888;
     list-style-type: none;
     --scale: 1;
