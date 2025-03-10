@@ -47,7 +47,7 @@ btns.forEach((btn,i) => {
 setInterval(() => {
   sliderNav(counter);
   counter++;
-  if(counter>3){
+  if(counter>2){
     counter=0;
   }
 }, 10000);
